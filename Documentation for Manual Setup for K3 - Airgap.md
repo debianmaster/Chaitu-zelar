@@ -1,4 +1,4 @@
-**Installing K3 through local machine by Airgap**
+**<h1>Installing K3 through Local Machine by Airgap</h1>**
 
 1. Initially take a VM or local Ubuntu Machine. 
 
