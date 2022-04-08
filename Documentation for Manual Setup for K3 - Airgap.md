@@ -14,9 +14,9 @@
 
 7. Now run the **wget** linking with above version in the terminal
 
-8. Unzip the above version by using **sudo tar –xvf k3s-airgap-images-amd64.tar**
+8. Unzip the above version by using `sudo tar –xvf k3s-airgap-images-amd64.tar`
 
-9. Copy the tar file in the images directory **sudo cp ./k3s-airgap-images-amd64.tar/var/lib/rancher/k3s/agent/images**
+9. Copy the tar file in the images directory `sudo cp ./k3s-airgap-images-amd64.tar/var/lib/rancher/k3s/agent/images`
 
 10. Now move to home user and place the binary at **/usr/local/bin** and ensure it is executable.
 
