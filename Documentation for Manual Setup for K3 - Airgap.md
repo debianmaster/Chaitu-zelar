@@ -1,9 +1,9 @@
 
-1. Initially take a VM or Ubuntu Machine. 
+1. Initially take a VM or local Ubuntu Machine. 
 
-2. Look into the given website **https://rancher.com/docs/k3s/latest/en/installation/airgap/#manually-deploy-images-method**.
+2. Look into the website **https://rancher.com/docs/k3s/latest/en/installation/airgap/#manually-deploy-images-method**.
 
-3. In that look into “**Manually Deploy Images Method** “and further scroll down to **Prepare the images directory and K3 binary**.
+3. In the website look into “**Manually Deploy Images Method** “and further scroll down to **Prepare the images directory and K3 binary**.
 
 4. Open the terminal in that create a directory **sudo mkdir -p /var/lib/rancher/k3s/agent/images/**
 
